@@ -8,7 +8,7 @@
 
 ## Microsoft Identity Platform
 
-![Identity Platform](~IdentityPlatform.png)
+![Identity Platform](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Images/IdentityPlatform.PNG)
 
 ## Code samples
 
