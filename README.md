@@ -10,9 +10,15 @@
 
 ![Identity Platform](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Images/IdentityPlatform.PNG)
 
+[Microsoft identity platform (Azure Active Directory for developers)](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
+
 ## Code samples
 
-- [Microsoft identity platform code samples (v2.0 endpoint)](https://docs.microsoft.com/en-us/azure/active-directory/develop/sample-v2-code)
+- [V1 overview](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
+- [V1 samples](https://docs.microsoft.com/en-us/azure/active-directory/develop/sample-v1-code)
+
+- [V2 overview](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview)
+- [V2 samples](https://docs.microsoft.com/en-us/azure/active-directory/develop/sample-v2-code)
 
 ## Some others
 
