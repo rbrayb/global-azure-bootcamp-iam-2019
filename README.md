@@ -9,8 +9,10 @@
 ## Some others
 
 - [ADFS Help](https://adfshelp.microsoft.com/)
-- [JWT](https://jwt.ms)
-- [JWT](https://jwt.io)
+- [JWT - MSoft](https://jwt.ms)
+- [JWT - Auth0](https://jwt.io)
+
+## General
 
 [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
 
