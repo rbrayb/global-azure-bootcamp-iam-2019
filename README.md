@@ -28,7 +28,8 @@
 
 ## General
 
-[Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
+- [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
+- [And of course! The new control plane](https://medium.com/the-new-control-plane)
 
 
 
