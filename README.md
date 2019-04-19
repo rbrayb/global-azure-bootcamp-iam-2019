@@ -8,7 +8,7 @@
 
 ## Microsoft Identity Platform
 
-![Image](IdentityPlatform.png)
+![Identity Platform](~IdentityPlatform.png)
 
 ## Code samples
 
