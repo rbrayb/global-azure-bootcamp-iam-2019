@@ -29,6 +29,7 @@
 ## General
 
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
+- [The Developer’s Guide to Microsoft Azure eBook](https://azure.microsoft.com/en-us/blog/the-developer-s-guide-to-microsoft-azure-ebook-august-update-is-now-available/)
 - [And of course! The new control plane](https://medium.com/the-new-control-plane)
 
 
