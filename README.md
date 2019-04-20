@@ -34,6 +34,7 @@
 ## Some others
 
 - [ADFS Help](https://adfshelp.microsoft.com/)
+- [ADFS to Azure AD App Migration Tool](https://github.com/AzureAD/Deployment-Plans/tree/master/ADFS%20to%20AzureAD%20App%20Migration)
 - [JWT - MSoft](https://jwt.ms)
 - [JWT - Auth0](https://jwt.io)
 
