@@ -41,6 +41,8 @@
 
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
 - [The Developer’s Guide to Microsoft Azure eBook](https://azure.microsoft.com/en-us/blog/the-developer-s-guide-to-microsoft-azure-ebook-august-update-is-now-available/)
+- [Azure eBooks](https://azureinfohub.azurewebsites.net/MediaType?mediaType=Ebook) 
+- [Claims based IAM](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff423674(v=pandp.10))
 - [And of course! The new control plane](https://medium.com/the-new-control-plane)
 
 
