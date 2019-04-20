@@ -30,6 +30,10 @@
 
 [V2 samples](https://docs.microsoft.com/en-us/azure/active-directory-b2c/code-samples)
 
+## Libraries
+
+- [Azure Active Directory Authentication Libraries](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-authentication-libraries)
+- [Azure Active Directory v2.0 authentication libraries](https://docs.microsoft.com/en-us/azure/active-directory/develop/reference-v2-libraries)
 
 ## Some others
 
