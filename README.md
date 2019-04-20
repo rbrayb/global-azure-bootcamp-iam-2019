@@ -12,13 +12,24 @@
 
 [Microsoft identity platform (Azure Active Directory for developers)](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
 
+## Authentication scenarios
+
+![Scenarios](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Images/Scenarios.PNG)
+
 ## Code samples
+
+### Azure AD
 
 - [V1 overview](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
 - [V1 samples](https://docs.microsoft.com/en-us/azure/active-directory/develop/sample-v1-code)
 
 - [V2 overview](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview)
 - [V2 samples](https://docs.microsoft.com/en-us/azure/active-directory/develop/sample-v2-code)
+
+### Azure AD B2C
+
+[V2 samples](https://docs.microsoft.com/en-us/azure/active-directory-b2c/code-samples)
+
 
 ## Some others
 
