@@ -9,6 +9,10 @@ Needs DotNet framework 4.7.2.
 This sample will not work with a MSA (Microsoft Live) account so you will need to create a user
 in your AAD tenant.
 
+To set multi-tenancy, do this under "Properties".
+
+![Properties](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Images/Multi_Tenant.png)
+
 For the permissions section, use this (under "Delegated Permissions"):
 
 ![Windows AAD](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Images/Graph_Permissions_1.png)
