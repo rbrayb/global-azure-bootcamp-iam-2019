@@ -16,7 +16,7 @@ For the permissions section, use this (under "Delegated Permissions"):
 
 You should end up with:
 
-![Overview](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Images/Graph_Permissions_3.png)
+![Overview](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Images/Graph_Permissions_All.png)
 
 
 
