@@ -26,6 +26,10 @@
 - [V2 overview](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview)
 - [V2 samples](https://docs.microsoft.com/en-us/azure/active-directory/develop/sample-v2-code)
 
+### Sample deployment instructions
+
+[DotNet OIDC Multi-tenant](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Deployment.md)
+
 ### Azure AD B2C
 
 [V2 samples](https://docs.microsoft.com/en-us/azure/active-directory-b2c/code-samples)
@@ -52,7 +56,8 @@
 
 ## Training
 
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/)
-[Hands-on labs](https://www.microsoft.com/handsonlabs)
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/)
+- [Hands-on Labs](https://www.microsoft.com/handsonlabs)
+
 
 
