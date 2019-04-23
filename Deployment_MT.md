@@ -11,8 +11,9 @@ in your AAD tenant.
 
 For the permissions section, use this (under "Delegated Permissions"):
 
-- ![Windows AAD](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Images/Graph_Permissions_1.png)
-- ![Microsoft Graph](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Images/Graph_Permissions_2.png)
+![Windows AAD](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Images/Graph_Permissions_1.png)
+
+![Microsoft Graph](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Images/Graph_Permissions_2.png)
 
 You should end up with:
 
