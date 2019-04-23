@@ -28,7 +28,7 @@
 
 ### Sample deployment instructions
 
-[DotNet OIDC Multi-tenant](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Deployment.md)
+[DotNet OIDC Multi-tenant](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Deployment.html)
 
 ### Azure AD B2C
 
