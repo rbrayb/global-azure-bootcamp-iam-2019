@@ -50,5 +50,9 @@
 - [Claims based IAM](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff423674(v=pandp.10))
 - [And of course! The new control plane](https://medium.com/the-new-control-plane)
 
+## Training
+
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/)
+[Hands-on labs](https://www.microsoft.com/handsonlabs)
 
 
