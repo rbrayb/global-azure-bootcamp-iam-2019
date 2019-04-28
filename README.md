@@ -49,7 +49,7 @@
 
 ## Slides
 
-[Deck](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Slides/AAD - Identity is the new control plane - Copy.pptx)
+[Deck](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Slides/AAD.pptx)
 
 ## General
 
