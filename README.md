@@ -47,6 +47,10 @@
 - [JWT - MSoft](https://jwt.ms)
 - [JWT - Auth0](https://jwt.io)
 
+## Slides
+
+[Deck](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Slides/AAD - Identity is the new control plane - Copy.pptx)
+
 ## General
 
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
